@@ -44,11 +44,11 @@ projects[ctools][version] = "1"
 projects[panels][subdir] = "contrib"
 projects[panels][version] = "3"
 
-projects[contt_admin][subdir] = "contrib"
-projects[contt_admin][version] = "1"
+projects[context_admin][subdir] = "contrib"
+projects[context_admin][version] = "1"
 
-projects[contt][subdir] = "contrib"
-projects[contt][version] = "3"
+projects[context][subdir] = "contrib"
+projects[context][version] = "3"
 
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2"
