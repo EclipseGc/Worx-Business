@@ -20,8 +20,8 @@ projects[token][version] = "1"
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1"
 
-;projects[lightbox2][subdir] = "contrib"
-;projects[lightbox2][version] = "2"
+projects[lightbox2][subdir] = "contrib"
+projects[lightbox2][version] = "1"
 
 projects[cck][subdir] = "contrib"
 projects[cck][version] = "2"
@@ -37,6 +37,9 @@ projects[imagefield][version] = "3"
 
 projects[imageapi][subdir] = "contrib"
 projects[imageapi][version] = "1"
+
+projects[imagecache][subdir] = "contrib"
+projects[imagecache][version] = "2"
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1"
