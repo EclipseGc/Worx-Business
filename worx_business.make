@@ -38,9 +38,6 @@ projects[imagefield][version] = "3"
 projects[imageapi][subdir] = "contrib"
 projects[imageapi][version] = "1"
 
-projects[imageapi][subdir] = "contrib"
-projects[imageapi][version] = "2"
-
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1"
 
