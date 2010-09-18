@@ -20,8 +20,8 @@ projects[token][version] = "1"
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1"
 
-projects[lightb2][subdir] = "contrib"
-projects[lightb2][version] = "2"
+projects[lightbox2][subdir] = "contrib"
+projects[lightbox2][version] = "2"
 
 projects[cck][subdir] = "contrib"
 projects[cck][version] = "2"
